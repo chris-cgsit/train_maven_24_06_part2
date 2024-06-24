@@ -8,4 +8,26 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <artifactId>maven-training-dtos</artifactId>
+
+    <dependencies>
+
+        <dependency>
+            <groupId>at.cgsit.training</groupId>
+            <artifactId>maven-training-restapi</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <!-- add json output support via jackson library -->
+        <dependency>
+            <groupId>io.quarkus</groupId>
+            <artifactId>quarkus-resteasy-reactive-jackson</artifactId>
+        </dependency>
+        <!-- add json output support via jackson library -->
+        <dependency>
+            <groupId>io.quarkus</groupId>
+            <artifactId>quarkus-resteasy-reactive-jackson</artifactId>
+        </dependency>
+
+    </dependencies>
+
 </project>

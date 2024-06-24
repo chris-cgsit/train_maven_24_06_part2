@@ -19,6 +19,9 @@
         <quarkus.platform.version>3.0.3.Final</quarkus.platform.version>
         <surefire-plugin.version>3.0.0</surefire-plugin.version>
         <skipITs>true</skipITs>
+
+        <project.version>1.0.0</project.version>
+
     </properties>
 
     <modules>

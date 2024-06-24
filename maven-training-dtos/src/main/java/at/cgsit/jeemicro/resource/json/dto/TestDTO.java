@@ -7,7 +7,6 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import com.fasterxml.jackson.annotation.JsonRootName;
 import jakarta.xml.bind.annotation.XmlRootElement;
 
-import java.time.LocalDate;
 import java.util.Date;
 
 @XmlRootElement
