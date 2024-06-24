@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: at.cgsit.jeemicro.resource.ExampleResourceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.214 s - in at.cgsit.jeemicro.resource.ExampleResourceTest
